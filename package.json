@@ -11,9 +11,12 @@
   "license": "MIT",
   "dependencies": {
     "@electron/asar": "^3.2.9",
+    "@mongodb-js/zstd": "^7.0.0",
     "chalk": "4",
+    "js-beautify": "^1.15.4",
     "prompts": "^2.4.2",
-    "yargs": "^17.7.2"
+    "yargs": "^17.7.2",
+    "zstddec": "^0.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.9",
