@@ -1,7 +1,7 @@
 Works on 1.20.1
 <h1 align="center">HTTP Toolkit Pro Patcher</h1>
 
-This is a simple tool to patch HTTP Toolkit to enable the Pro features without a license or subscription. **But please consider supporting the developer by purchasing a license if you find the HTTP Toolkit useful.**
+This is a simple tool to patch HTTP Toolkit v 1.20.1 to enable the Pro features without a license or subscription. **But please consider supporting the developer by purchasing a license if you find the HTTP Toolkit useful.**
 
 ## Usage
 
